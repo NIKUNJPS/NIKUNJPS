@@ -1,4 +1,4 @@
-
+<!-- 💫 Profile Banner -->
 <p align="center">
   <img src="https://github.com/NIKUNJPS/NIKUNJPS/blob/main/Screenshot%202025-10-08%20091242.png" alt="Nikunj-Shah-Banner" width="100%">
 </p>
@@ -104,9 +104,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=NIKUNJPS&icon=0&color=6" alt="Profile Views"/>
-</p>
-
----
 
