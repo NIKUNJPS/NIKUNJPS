@@ -50,6 +50,7 @@
 `Docker` • `Git` • `GitHub` • `VS Code`
 
 ---
+
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -88,7 +89,11 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NIKUNJPS&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NIKUNJPS&theme=onedark&no-frame=false&margin-w=10&column=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <em>🏅 Recognitions earned through consistent open-source contributions, project collaborations, and hackathon-driven innovation.</em>
 </p>
 
 ---
@@ -105,3 +110,4 @@
 ---
 
 
+<!-- Proudly crafted with ⚡ by Nikunj Shah -->
