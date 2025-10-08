@@ -1,4 +1,4 @@
-<!-- 💫 Profile Banner -->
+
 <p align="center">
   <img src="https://github.com/NIKUNJPS/NIKUNJPS/blob/main/Screenshot%202025-10-08%20091242.png" alt="Nikunj-Shah-Banner" width="100%">
 </p>
@@ -50,7 +50,6 @@
 `Docker` • `Git` • `GitHub` • `VS Code`
 
 ---
-
 ## 🧰 Tech Stack
 
 <p align="center">
@@ -89,11 +88,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NIKUNJPS&theme=onedark&no-frame=false&margin-w=10&column=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <em>🏅 Recognitions earned through consistent open-source contributions, project collaborations, and hackathon-driven innovation.</em>
+  <img src="https://github-profile-trophy.vercel.app/?username=NIKUNJPS&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"/>
 </p>
 
 ---
@@ -110,4 +105,3 @@
 ---
 
 
-<!-- Proudly crafted with ⚡ by Nikunj Shah -->
