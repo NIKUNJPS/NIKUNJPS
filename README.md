@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/NIKUNJPS">
-    <img src="https://komarev.com/ghpvc/?username=NIKUNJPS&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://github.com/NIKUNJPS/NIKUNJPS/blob/main/Profile%20Banner.png" />
   </a>
 </p>
 
