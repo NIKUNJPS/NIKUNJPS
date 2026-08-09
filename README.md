@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:059669,100:34d399&height=220&section=header&text=Nikunj%20Shah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CTO%20%7C%20AI%20Product%20Builder%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:663399,100:00F0FF&height=220&section=header&text=Nikunj%20Shah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CTO%20%7C%20AI%20Product%20Builder%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=650&lines=CTO+%40+UpScalers+Technology;CTO+%40+4XStruct+Inc.;Building+AI+products%2C+not+studying+them;Ship+first.+Polish+later." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=650&lines=CTO+%40+UpScalers+Technology;CTO+%40+4XStruct+Inc.;Building+AI+products%2C+not+studying+them;Ship+first.+Polish+later." />
 
 <br>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://structmindai.4xstruct.com"><img src="https://img.shields.io/badge/StructMind_AI-Live-10B981?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="https://www.soniandsons.in/"><img src="https://img.shields.io/badge/Soni_%26_Soni_Builder-Live-10B981?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:niks.shah236@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://structmindai.4xstruct.com"><img src="https://img.shields.io/badge/StructMind_AI-Live-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://www.soniandsons.in/"><img src="https://img.shields.io/badge/Soni_%26_Soni_Builder-Live-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 
-<img src="https://komarev.com/ghpvc/?username=NIKUNJPS&label=Profile%20Views&color=10B981&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=NIKUNJPS&label=Profile%20Views&color=00F0FF&style=for-the-badge" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,100:34d399&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F0FF&height=3&width=100%"/>
 
 ## ⚡ What I actually build
 
@@ -84,7 +84,7 @@ Always shipping something new — check pinned repos for the latest.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:34d399,100:022c22&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:0D1117&height=3&width=100%"/>
 
 ## 🧠 How I think about problems
 
@@ -103,18 +103,18 @@ I don't start from *"what can I build"* — I start from a real constraint and w
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NIKUNJPS&show_icons=true&hide_border=true&count_private=true&title_color=10B981&icon_color=34D399&text_color=D1FAE5&bg_color=022C22" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKUNJPS&hide_border=true&background=022C22&stroke=10B981&ring=34D399&fire=10B981&currStreakLabel=D1FAE5&sideLabels=D1FAE5&currStreakNum=D1FAE5&sideNums=D1FAE5&dates=6EE7B7" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NIKUNJPS&show_icons=true&hide_border=true&count_private=true&title_color=00F0FF&icon_color=8A2BE2&text_color=FFFFFF&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKUNJPS&hide_border=true&background=0D1117&stroke=00F0FF&ring=8A2BE2&fire=00F0FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A2BE2" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKUNJPS&layout=compact&hide_border=true&title_color=10B981&text_color=D1FAE5&bg_color=022C22" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKUNJPS&layout=compact&hide_border=true&title_color=00F0FF&text_color=FFFFFF&bg_color=0D1117" height="150"/>
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKUNJPS&hide_border=true&bg_color=022C22&color=10B981&line=34D399&point=D1FAE5&area=true&area_color=10B981" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKUNJPS&hide_border=true&bg_color=0D1117&color=FFFFFF&line=00F0FF&point=8A2BE2&area=true&area_color=8A2BE2" width="95%"/>
 </div>
 
 <details>
@@ -127,7 +127,7 @@ I don't start from *"what can I build"* — I start from a real constraint and w
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,100:34d399&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F0FF&height=3&width=100%"/>
 
 ## 🏆 Achievements
 
@@ -141,6 +141,6 @@ I don't start from *"what can I build"* — I start from a real constraint and w
 
 ### 💬 Open to internships, hackathons, and collaborations where the goal is to ship something real.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,50:059669,100:022c22&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:663399,100:0D1117&height=120&section=footer"/>
 
 </div>
