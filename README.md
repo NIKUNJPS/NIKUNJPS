@@ -97,7 +97,7 @@ I don't start from "what can I build" — I start from a real constraint and wor
 <br>
 
 <div align="center">
-<img src="https://github.com/NIKUNJPS/NIKUNJPS/blob/main/technical-arsenal-cyberpunk.svg" width="720"/>
+<img src="https://raw.githubusercontent.com/NIKUNJPS/NIKUNJPS/main/technical-arsenal-cyberpunk.svg" width="720"/>
 </div>
 
 <br>
