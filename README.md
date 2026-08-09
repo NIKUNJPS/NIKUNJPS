@@ -120,15 +120,9 @@ I don't start from *"what can I build"* — I start from a real constraint and w
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKUNJPS&hide_border=true&bg_color=0D1117&color=FFFFFF&line=00F0FF&point=8A2BE2&area=true&area_color=8A2BE2" width="95%"/>
 </div>
 
-<details>
-<summary>🐍 Contribution Snake (setup required — see note below)</summary>
-<br>
-
-<img src="https://raw.githubusercontent.com/NIKUNJPS/NIKUNJPS/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-> This turns your contribution graph into an animated snake that updates daily. It won't render until you add the [Snake GitHub Action](https://github.com/Platane/snk) to this repo (one-time, 5-minute setup) — the file it points to doesn't exist yet, which is why it shows broken right now.
-
-</details>
+<div align="center">
+<img src="https://raw.githubusercontent.com/NIKUNJPS/NIKUNJPS/main/contribution-snake-static.svg" width="700"/>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:00F0FF&height=3&width=100%"/>
 
