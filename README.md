@@ -109,8 +109,9 @@ I don't start from *"what can I build"* — I start from a real constraint and w
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NIKUNJPS&show_icons=true&hide_border=true&count_private=true&title_color=00F0FF&icon_color=8A2BE2&text_color=FFFFFF&bg_color=0D1117" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKUNJPS&hide_border=true&background=0D1117&stroke=00F0FF&ring=8A2BE2&fire=00F0FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A2BE2" height="165"/>
+<img src="https://raw.githubusercontent.com/NIKUNJPS/NIKUNJPS/main/github-activity-cyberpunk.svg" width="700"/>
+
+<sub>Snapshot — <a href="https://github-readme-streak-stats.herokuapp.com/?user=NIKUNJPS&hide_border=true&background=0D1117&stroke=00F0FF&ring=8A2BE2&fire=00F0FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A2BE2">🔄 view live stats</a></sub>
 </div>
 
 <br>
