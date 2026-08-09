@@ -23,13 +23,13 @@ I'm CTO at **UpScalers Technology** (IT services and software agency) and CTO at
 
 <br>
 
-## Shipped Products
+## 🚀 Shipped Products
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[KumbhSetu](https://github.com/NIKUNJPS/KumbhSetu)**
+**🕉️ [KumbhSetu](https://github.com/NIKUNJPS/KumbhSetu)**
 Pilgrim super-app for Kumbh Mela 2027. React Native + Expo app built across 13 development batches — payments, an AI chatbot ("Devi"), crowd prediction, NRI features, a superadmin panel, and a loyalty system. Currently in EAS build and on-device testing.
 
 `React Native` `Expo` `Node.js` `MongoDB`
@@ -37,7 +37,7 @@ Pilgrim super-app for Kumbh Mela 2027. React Native + Expo app built across 13 d
 </td>
 <td width="50%" valign="top">
 
-**[StructMind AI](https://structmindai.4xstruct.com)**
+**🏭 [StructMind AI](https://structmindai.4xstruct.com)**
 Structural steel SaaS platform, live in production. Built the AI and prompt engineering layer for Drawing Checker, Material Takeoff, Master Intake, and Estimation Pro. Validated AI-generated output against real 100+ page structural drawing sets.
 
 `React` `Vite` `TypeScript` `Firebase` `Gemini API`
@@ -47,7 +47,7 @@ Structural steel SaaS platform, live in production. Built the AI and prompt engi
 <tr>
 <td width="50%" valign="top">
 
-**[Soni & Soni Builder](https://www.soniandsons.in/)**
+**🏢 [Soni & Soni Builder](https://www.soniandsons.in/)**
 Real estate and construction business website, live. Designed, built, and deployed the full client-facing site end to end.
 
 `YOUR-STACK-HERE`
@@ -55,7 +55,7 @@ Real estate and construction business website, live. Designed, built, and deploy
 </td>
 <td width="50%" valign="top">
 
-**[NexusCRM](https://github.com/NIKUNJPS/crm)**
+**📊 [NexusCRM](https://github.com/NIKUNJPS/crm)**
 Multi-tenant B2B SaaS CRM. Full 10-batch build — FastAPI backend, MongoDB, React 19 frontend, Gemini-powered features. Documented deployment path from free tier through DigitalOcean VPS to scale.
 
 `FastAPI` `MongoDB` `React` `Gemini API`
@@ -65,7 +65,7 @@ Multi-tenant B2B SaaS CRM. Full 10-batch build — FastAPI backend, MongoDB, Rea
 <tr>
 <td width="50%" valign="top">
 
-**[TaskFlow](https://github.com/NIKUNJPS/saasone)**
+**✅ [TaskFlow](https://github.com/NIKUNJPS/saasone)**
 Workforce management SaaS.
 
 `FastAPI` `MongoDB` `React`
@@ -73,7 +73,7 @@ Workforce management SaaS.
 </td>
 <td width="50%" valign="top">
 
-**Next build**
+**🔜 Next build**
 Always shipping something new — check pinned repositories for the latest.
 
 </td>
