@@ -1,88 +1,146 @@
-<h1 align="center">Hi, I'm Nikunj Shah 👋</h1>
-<h3 align="center">Building AI-powered products, not just studying them</h3>
+<div align="center">
 
-<p align="center">
-CTO @ UpScalers Technology · CTO @ 4XStruct Inc. · B.Tech IT, K.K. Wagh Institute
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Nikunj%20Shah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CTO%20%7C%20AI%20Product%20Builder%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://structmindai.4xstruct.com"><img src="https://img.shields.io/badge/StructMind_AI-Live-2ea44f?style=flat"></a>
-  <a href="https://YOUR-SONI-AND-SONI-URL.com"><img src="https://img.shields.io/badge/Soni_%26_Soni_Builder-Live-2ea44f?style=flat"></a>
-</p>
-
----
-
-### What I actually build
-
-I'm CTO at **UpScalers Technology**, an IT services and software agency, and CTO at **4XStruct Inc.**, where I built the AI core of a live structural steel SaaS platform. Below are the real, shipped things — not tutorials.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=650&lines=CTO+%40+UpScalers+Technology;CTO+%40+4XStruct+Inc.;Building+AI+products%2C+not+studying+them;Ship+first.+Polish+later." />
 
 <br>
 
-### 🏗️ Shipped / In Production
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://structmindai.4xstruct.com"><img src="https://img.shields.io/badge/StructMind_AI-Live-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://www.soniandsons.in/"><img src="https://img.shields.io/badge/Soni_%26_Soni_Builder-Live-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 
-**[KumbhSetu](https://github.com/NIKUNJPS/KumbhSetu)** — Pilgrim super-app for Kumbh Mela 2027
-React Native + Expo app built across 13 structured dev batches: payments, an AI chatbot ("Devi"), crowd prediction, NRI features, a superadmin panel, and a loyalty system. Currently in EAS build / on-device testing.
+<img src="https://komarev.com/ghpvc/?username=NIKUNJPS&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
+
+## ⚡ What I actually build
+
+I'm **CTO at UpScalers Technology** (IT services & software agency) and **CTO at 4XStruct Inc.**, where I built the AI core of a live structural steel SaaS platform. Everything below is shipped — not a tutorial repo.
+
+<br>
+
+## 🏗️ Shipped / In Production
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🕉️ [KumbhSetu](https://github.com/NIKUNJPS/KumbhSetu)
+**Pilgrim super-app · Kumbh Mela 2027**
+React Native + Expo app built across 13 dev batches — payments, AI chatbot "Devi", crowd prediction, NRI features, superadmin panel, loyalty system. In EAS build / on-device testing.
+
 `React Native` `Expo` `Node.js` `MongoDB`
 
-**[StructMind AI](https://structmindai.4xstruct.com)** — Structural steel SaaS (live product)
-Built the AI/prompt engineering layer for Drawing Checker, Material Takeoff, Master Intake, and Estimation Pro modes. Validated AI-generated MTO output against real 100+ page structural drawing sets.
+</td>
+<td width="50%" valign="top">
+
+### 🏭 [StructMind AI](https://structmindai.4xstruct.com)
+**Structural steel SaaS · Live product**
+Built the AI/prompt engineering layer for Drawing Checker, MTO, Master Intake, and Estimation Pro. Validated AI output against real 100+ page drawing sets.
+
 `React` `Vite` `TypeScript` `Firebase` `Gemini API`
 
-**[Soni & Soni Builder](https://www.soniandsons.in/)** — Real estate / construction business website (live)
-Built and shipped the client-facing site end to end — design, development, and deployment.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 [Soni & Soni Builder](https://www.soniandsons.in/)
+**Real estate / construction website · Live**
+Designed, built, and deployed the full client-facing site end to end.
+
 `YOUR-STACK-HERE`
 
-**[NexusCRM](https://github.com/NIKUNJPS/crm)** — Multi-tenant B2B SaaS CRM
-Full 10-batch build: FastAPI backend, MongoDB, React 19 frontend, Gemini-powered features. Documented deployment path from free tier → DigitalOcean VPS → scale.
+</td>
+<td width="50%" valign="top">
+
+### 📊 [NexusCRM](https://github.com/NIKUNJPS/crm)
+**Multi-tenant B2B SaaS CRM**
+10-batch build — FastAPI backend, MongoDB, React 19, Gemini-powered features. Deployment path from free tier → DigitalOcean VPS → scale.
+
 `FastAPI` `MongoDB` `React` `Gemini API`
 
-**[TaskFlow](https://github.com/NIKUNJPS/saasone)** — Workforce management SaaS
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ [TaskFlow](https://github.com/NIKUNJPS/saasone)
+**Workforce management SaaS**
+
 `FastAPI` `MongoDB` `React`
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-### 🧠 How I think about problems
+### 🚀 Next build: your name here
+Always shipping something new — check pinned repos for the latest.
 
-I don't start from "what can I build" — I start from a real constraint and work backward. KumbhSetu came from managing my family's own dharamshala ahead of Simhastha Kumbh Mela 2027 and seeing the actual gaps pilgrims face. I'd rather ship a rough version against a real problem than polish a fake one.
+</td>
+</tr>
+</table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=3&width=100%"/>
 
-### ⚙️ Tools I actually use day to day
+## 🧠 How I think about problems
 
-`Python` `TypeScript` `FastAPI` `React` `React Native` `MongoDB` `Firebase` `Google Cloud Run` `Gemini API` `Docker` `Git`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,fastapi,django,tensorflow,docker,git,github,vscode&perline=6" />
-</p>
-
-<br>
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NIKUNJPS&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKUNJPS&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKUNJPS&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+I don't start from *"what can I build"* — I start from a real constraint and work backward. **KumbhSetu** came from managing my family's own dharamshala ahead of Simhastha Kumbh Mela 2027 and seeing the actual gaps pilgrims face. I'd rather ship a rough version against a real problem than polish a fake one.
 
 <br>
 
-### 🏆 Achievements
+## ⚙️ Tech I actually use
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,fastapi,django,tensorflow,mongodb,firebase,docker,git,github,vscode,gcp&perline=8" />
+</div>
+
+<br>
+
+## 📊 GitHub Activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=NIKUNJPS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKUNJPS&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKUNJPS&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKUNJPS&theme=tokyo-night&hide_border=true" width="95%"/>
+</div>
+
+<details>
+<summary>🐍 Contribution Snake (setup required — see note below)</summary>
+<br>
+
+<img src="https://raw.githubusercontent.com/NIKUNJPS/NIKUNJPS/output/github-contribution-grid-snake.svg" width="100%"/>
+
+> This animates automatically once you add the [Snake GitHub Action](https://github.com/Platane/snk) to this repo — it turns your contribution graph into a snake game animation that updates daily.
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
+
+## 🏆 Achievements
 
 - 🥇 1st Prize — Department Level Project Competition
-- 🚀 Shipped multiple production SaaS products end to end (frontend, backend, deployment)
+- 🚀 Shipped multiple production SaaS products end to end — frontend, backend, deployment
 - 🏗️ Leading AI product development as CTO across two companies
 
 <br>
 
-### 📌 A note on this profile
+<div align="center">
 
-Older repos here are early coursework/practice — kept for history, not pinned. The pinned repos above are what I'd want reviewed.
+### 💬 Open to internships, hackathons, and collaborations where the goal is to ship something real.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
 
-<p align="center"><i>Open to internships, hackathons, and collaborations where the goal is to ship something real.</i></p>
+</div>
