@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Nikunj%20Shah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CTO%20%7C%20AI%20Product%20Builder%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c22,50:059669,100:34d399&height=220&section=header&text=Nikunj%20Shah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CTO%20%7C%20AI%20Product%20Builder%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=650&lines=CTO+%40+UpScalers+Technology;CTO+%40+4XStruct+Inc.;Building+AI+products%2C+not+studying+them;Ship+first.+Polish+later." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=650&lines=CTO+%40+UpScalers+Technology;CTO+%40+4XStruct+Inc.;Building+AI+products%2C+not+studying+them;Ship+first.+Polish+later." />
 
 <br>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://structmindai.4xstruct.com"><img src="https://img.shields.io/badge/StructMind_AI-Live-2ea44f?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="https://www.soniandsons.in/"><img src="https://img.shields.io/badge/Soni_%26_Soni_Builder-Live-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://structmindai.4xstruct.com"><img src="https://img.shields.io/badge/StructMind_AI-Live-10B981?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://www.soniandsons.in/"><img src="https://img.shields.io/badge/Soni_%26_Soni_Builder-Live-10B981?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 
-<img src="https://komarev.com/ghpvc/?username=NIKUNJPS&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=NIKUNJPS&label=Profile%20Views&color=10B981&style=for-the-badge" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,100:34d399&height=3&width=100%"/>
 
 ## ⚡ What I actually build
 
@@ -84,7 +84,7 @@ Always shipping something new — check pinned repos for the latest.
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0f2027&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:34d399,100:022c22&height=3&width=100%"/>
 
 ## 🧠 How I think about problems
 
@@ -103,31 +103,31 @@ I don't start from *"what can I build"* — I start from a real constraint and w
 ## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NIKUNJPS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKUNJPS&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NIKUNJPS&show_icons=true&hide_border=true&count_private=true&title_color=10B981&icon_color=34D399&text_color=D1FAE5&bg_color=022C22" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NIKUNJPS&hide_border=true&background=022C22&stroke=10B981&ring=34D399&fire=10B981&currStreakLabel=D1FAE5&sideLabels=D1FAE5&currStreakNum=D1FAE5&sideNums=D1FAE5&dates=6EE7B7" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKUNJPS&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIKUNJPS&layout=compact&hide_border=true&title_color=10B981&text_color=D1FAE5&bg_color=022C22" height="150"/>
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKUNJPS&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NIKUNJPS&hide_border=true&bg_color=022C22&color=10B981&line=34D399&point=D1FAE5&area=true&area_color=10B981" width="95%"/>
 </div>
 
 <details>
 <summary>🐍 Contribution Snake (setup required — see note below)</summary>
 <br>
 
-<img src="https://raw.githubusercontent.com/NIKUNJPS/NIKUNJPS/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/NIKUNJPS/NIKUNJPS/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-> This animates automatically once you add the [Snake GitHub Action](https://github.com/Platane/snk) to this repo — it turns your contribution graph into a snake game animation that updates daily.
+> This turns your contribution graph into an animated snake that updates daily. It won't render until you add the [Snake GitHub Action](https://github.com/Platane/snk) to this repo (one-time, 5-minute setup) — the file it points to doesn't exist yet, which is why it shows broken right now.
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:00c6ff&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:022c22,100:34d399&height=3&width=100%"/>
 
 ## 🏆 Achievements
 
@@ -141,6 +141,6 @@ I don't start from *"what can I build"* — I start from a real constraint and w
 
 ### 💬 Open to internships, hackathons, and collaborations where the goal is to ship something real.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,50:059669,100:022c22&height=120&section=footer"/>
 
 </div>
