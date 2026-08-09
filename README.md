@@ -101,7 +101,7 @@ I don't start from *"what can I build"* — I start from a real constraint and w
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/NIKUNJPS/NIKUNJPS/main/tech-stack-cyberpunk.svg" width="640"/>
+<img src="https://raw.githubusercontent.com/NIKUNJPS/NIKUNJPS/main/technical-arsenal-cyberpunk.svg" width="720"/>
 </div>
 
 <br>
